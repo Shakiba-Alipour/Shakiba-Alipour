@@ -1,5 +1,5 @@
 ## About
-Hi, I’m Shakiba Alipour. I'm a software engineer.<br />
+Hi, I’m Shakiba Alipour. I'm a computer engineer.<br />
 You can check out my CV [here](https://shakiba.dev).
 
 
