@@ -1,5 +1,5 @@
 ## About
-Hi, I’m Shakiba Alipour. I'm a computer engineer.<br />
+Hi, I’m Shakiba Alipour. I'm a computer engineer, interested in software and web development.<br />
 
 
 ## Contact
